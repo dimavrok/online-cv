@@ -143,10 +143,6 @@ footer {
     padding: 30px;
 }
 
-p { 
-    font-size: 20px; 
-} 
-
 .skill { 
     background-color: rgb(116, 194, 92); 
     color: white; 
@@ -156,11 +152,11 @@ p {
     border-radius: 15px; 
 } 
 
-.html { 
+.Python { 
     width: 80%; 
 } 
 
-.php { 
+.ETL { 
     width: 60%; 
 } 
 
