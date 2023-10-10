@@ -152,13 +152,6 @@ footer {
     border-radius: 15px; 
 } 
 
-.Python { 
-    width: 80%; 
-} 
-
-.ETL { 
-    width: 60%; 
-} 
 
 @media (max-width: 991.98px) {
     .right-side {
