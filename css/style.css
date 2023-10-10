@@ -147,12 +147,6 @@ p {
     font-size: 20px; 
 } 
 
-.container { 
-    background-color: rgb(192, 192, 192); 
-    width: 80%; 
-    border-radius: 15px; 
-} 
-
 .skill { 
     background-color: rgb(116, 194, 92); 
     color: white; 
